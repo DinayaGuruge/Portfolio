@@ -111,7 +111,7 @@ function App() {
             I build real-world software solutions that turn ideas into polished,
             user-friendly experiences. I enjoy creating intuitive interfaces,
             solving meaningful problems, and contributing to practical digital
-            products through my internship at Sensus Hub.
+            products.
           </p>
           <div className="hero-buttons">
             <button
